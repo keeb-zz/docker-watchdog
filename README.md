@@ -12,4 +12,7 @@ docker tag keeb/docker-watchdog watchdog && : # this shit is long enough as it i
 docker run -v /run/docker.sock:/run/docker.sock -v /usr/bin/docker:/bin/docker -d watchdog busybox sh -c "echo hello && sleep 10"
 ```
 
+When asked why?
+
+[!http://i.imgur.com/V8PEqyM.jpg]
 
