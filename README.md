@@ -14,5 +14,4 @@ docker run -v /run/docker.sock:/run/docker.sock -v /usr/bin/docker:/bin/docker -
 
 When asked why?
 
-[!http://i.imgur.com/V8PEqyM.jpg]
-
+![All the fucking things](http://i.imgur.com/V8PEqyM.jpg)
